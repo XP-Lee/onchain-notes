@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xp-lee.github.io/sitemap.xml
